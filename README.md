@@ -8,7 +8,7 @@ This is the BOQ Test Demo Conference API
 
 Demo :
 
-Swagger Link - 
+Swagger Link - http://boqdemoapi.azurewebsites.net/swagger/index.html
 
 Authorization details :
 UserName: Demo_user
